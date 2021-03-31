@@ -1,0 +1,29 @@
+{
+  "name": "twilio-demo",
+  "version": "1.0.0",
+  "description": "\"# twilio-demo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LonelyLok/twilio-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LonelyLok/twilio-demo/issues"
+  },
+  "homepage": "https://github.com/LonelyLok/twilio-demo#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "@types/twilio": "^3.19.3",
+    "dotenv": "^8.2.0"
+  }
+}
